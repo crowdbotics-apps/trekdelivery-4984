@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT trekdelivery_4984.wsgi:application

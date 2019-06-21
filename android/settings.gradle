@@ -1,0 +1,3 @@
+rootProject.name = 'trekdelivery_4984'
+
+include ':app'
